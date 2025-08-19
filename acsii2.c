@@ -5,7 +5,7 @@ int main()
 
 int numbers;
 
-for (numbers = 41; numbers <= 90; numbers = numbers + 1)
+for (numbers = 65; numbers <= 90; numbers = numbers + 1)
 
 {
 	putchar(numbers);
