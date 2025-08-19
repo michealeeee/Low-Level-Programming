@@ -3,7 +3,7 @@
 int main()
 {
 
-int numbers = 41;
+int numbers = 65;
 
 while(numbers <= 90)
 
